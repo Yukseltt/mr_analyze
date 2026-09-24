@@ -1,0 +1,8 @@
+*.pt
+*.pth
+*.h5
+*.zip
+dataset/
+saved_models/
+__pycache__/
+.ipynb_checkpoints/
